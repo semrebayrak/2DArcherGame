@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/benim/OneDrive/Masa\xFCst\xFC/New Unity Project (4)/Assets/Menu.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
